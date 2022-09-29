@@ -34,7 +34,7 @@
   "dependencies": {
     "acorn": "^8.0.5",
     "babel-preset-env": "^1.7.0",
-    "d3": "^5.16.0",
+    "d3": "^7.6.1",
     "jest": "^23.6.0",
     "node-fetch": "^2.6.1"
   }
